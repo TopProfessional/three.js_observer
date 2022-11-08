@@ -1,0 +1,11 @@
+Model Information:
+* title:	Orc NPC Game Ready Rigged Model
+* source:	https://sketchfab.com/3d-models/orc-npc-game-ready-rigged-model-8fc4108317084dad87a6f4fe0a2aa58d
+* author:	Vladislav Tchubko (https://sketchfab.com/VladislavTchubko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Orc NPC Game Ready Rigged Model" (https://sketchfab.com/3d-models/orc-npc-game-ready-rigged-model-8fc4108317084dad87a6f4fe0a2aa58d) by Vladislav Tchubko (https://sketchfab.com/VladislavTchubko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
